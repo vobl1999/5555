@@ -7,10 +7,15 @@
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://lanzouw.com/"
+    "link": "https://drive.vobl.cn/"
   },
   {
     "icon": "CompactDisc",
     "name": "QQ音乐",
     "link": "https://y.qq.com/"
+  },
+  {
+    "icon": "Google",
+    "name": "Google",
+    "link": "https://google.com/"
   },
